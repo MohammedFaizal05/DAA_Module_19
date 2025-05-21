@@ -15,7 +15,7 @@ Program to implement Merge Sort
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def mergesort(arr):
     size=len(arr)
     if(size>1):
