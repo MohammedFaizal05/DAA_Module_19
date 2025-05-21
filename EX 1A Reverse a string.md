@@ -20,7 +20,7 @@ Program to write a Python function for determining if a string has more vowels t
 Developed by: MOHAMMED FAIZAL J
 Register Number:  212222100027
 ```
-```
+```PYTHON
 def vowels1(str):
     def count(str):
         size=len(str)
