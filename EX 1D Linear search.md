@@ -14,7 +14,7 @@ Program to implement a search function with parameter list name and the value to
 Developed by:  MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def search(List, n):
     if n in List:
         print(n, "Found")
