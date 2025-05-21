@@ -17,7 +17,7 @@ Program to implement implement quick sort using the last element as pivot on the
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def quickSort(arr,start,end):
     if end-start>1:
         p=partition(arr,start,end)
